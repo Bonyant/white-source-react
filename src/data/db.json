@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "src": "https://i.ibb.co/8sNyzMJ/Portfolio.jpg",
+      "alt": "Portfolio",
+      "url": "http://azportfolio.zzz.com.ua/"
+    },
+    {
+      "id": 2,
+      "src": "https://i.ibb.co/S3gKzzv/Clocks.jpg",
+      "alt": "Clocks",
+      "url": "http://simpleclocks.zzz.com.ua/react/"
+    },
+    {
+      "id": 3,
+      "src": "https://i.ibb.co/SxKY5HB/White-Source.jpg",
+      "alt": "WhiteSource",
+      "url": "http://whitesource.zzz.com.ua/team"
+    }
+  ]
+}

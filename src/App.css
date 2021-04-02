@@ -1,38 +1,275 @@
-.App {
+body {
+  height: auto;
+  scroll-behavior: smooth;
+}
+.heading {
+  margin: 100px 0;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.fix {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  top: 0;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.date {
+  text-align: right;
+  font-weight: bold;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.headcont {
+  margin: 50px 0;
+  color: black;
+  text-align: center;
+}
+.headcont h2 {
+  margin: 0 0 50px 0;
+}
+.fix.sticky {
+  position: fixed;
+  z-index: 1000;
+  width: 100%;
+  top: 0;
+}
+.textBt {
+  margin: 0 100px;
+}
+.content {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
+  padding: 0 50px;
+  margin: 100px 0;
+}
+.contentBx {
+  padding-right: 30px;
+}
+.contentBx h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.banner {
+  position: relative;
+  min-height: 120vh;
+  background: url(../src/Components/images/banner.jpg);
+  background-size: cover;
+  background-position: right;
+  display: flex;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.banner h2 {
+  font-size: 3em;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.5em;
+}
+.banner h2 span {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+.banner h3 {
+  font-size: 1.5em;
+  color: #fff;
+  font-weight: 500;
+}
+.text-muted {
+  font-style: italic;
+  color: grey;
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+}
+.fa span {
+  margin: 0 0 0 10px;
+}
+.fa:hover {
+  text-decoration: none;
+  color: white;
+  border: 1px solid black;
+  font-size: 19px;
+}
+.fa-facebook {
+  background: #3b5998;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.fa-twitter {
+  background: #55acee;
+  color: white;
 }
-
-@keyframes App-logo-spin {
-  from {
+.fa-youtube {
+  background: #c4302b;
+  color: white;
+}
+.fa-instagram {
+  background: #e1306c;
+  color: white;
+}
+.contactus {
+  background-color: white;
+  padding: 40px 70px;
+  height: 80vh;
+}
+.contactusBx {
+  text-align: center;
+  width: 100%;
+}
+.space {
+  white-space: normal;
+}
+.spacepd {
+  padding: 10px 0;
+}
+.spmar {
+  margin: 50px 0 0 0;
+}
+.prodst {
+  width: 14rem;
+  padding: 10px;
+  height: 30rem;
+}
+.flexview {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+.toDown {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+}
+.toCenter {
+  position: absolute;
+  bottom: 70px;
+  left: 10px;
+}
+.forImg {
+  width: 80%;
+}
+.forButton {
+  margin: 70px 0;
+  text-align: center;
+}
+.w50 {
+  min-width: 50%;
+}
+.bgw50 {
+  min-width: 50%;
+  text-align: center;
+  background: url(../src/Components/images/site.jpg);
+  background-repeat: no-repeat;
+}
+.loader {
+  margin: 100px 0;
+  border: 10px solid #f3f3f3;
+  border-top: 10px solid #000000;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  animation: spin 2s linear infinite;
+}
+@keyframes spin {
+  0% {
     transform: rotate(0deg);
   }
-  to {
+  100% {
     transform: rotate(360deg);
+  }
+}
+@media (max-width: 1050px) {
+  .bgw50 {
+    min-width: 0;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 100%;
+    margin: 0;
+  }
+  .w50 {
+    margin: 0;
+    flex-direction: column;
+    text-align: justify;
+    height: 80%;
+    min-width: 0;
+  }
+  .content {
+    padding: 20px 50px;
+    margin: 0;
+  }
+  .heading {
+    margin: 30px;
+    color: black;
+    text-align: center;
+  }
+}
+@media (max-width: 500px) {
+  .bgw50 {
+    min-width: 0;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 150%;
+    margin: 0;
+    background: url(../src/Components/images/sitesmall.jpg);
+    background-repeat: no-repeat;
+  }
+  .textBt h2 {
+    font-size: 2.4em;
+    font-weight: 500;
+    line-height: 1em;
+  }
+  .textBt h3 {
+    font-size: 2em;
+    font-weight: 500;
+  }
+  .textBt {
+    padding: 20px;
+    margin: 20px;
+  }
+  .flexview {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 20px;
+  }
+}
+@media (max-width: 700px) {
+  .fa {
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-self: stretch;
+  }
+}
+@media (max-width: 900px) {
+  .fa {
+    padding: 20px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 20px;
+  }
+  .fa span {
+    display: flex;
+    width: 200px;
+    justify-content: center;
+  }
+  .fa:hover {
+    font-size: 14px;
+  }
+  .contactusBx {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .heading {
+    margin: 20%;
   }
 }

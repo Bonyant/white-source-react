@@ -1,0 +1,197 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "В сеть утек исходный код GitHub и GitHub Enterprise",
+        "content": "Произошло всё ещё 4 ноября 2020 года в 6:51 по московскому времени. Пользователь под ником nat, явно пытаясь выдать себя за руководителя GitHub Нэта Фридмэна, опубликовал в репозитории github/dmca исходные коды как самого проекта, так и его Enterprise-версии.",
+        "date": "11-11-2020"
+      },
+      {
+        "id": 2,
+        "title": "Huawei продаст Honor, чтобы вывести его из-под санкций США",
+        "content": "По информации Reuters, суббренд китайского производителя может отойти государству и дистрибьютору Digital China. Такой гамбит позволит смартфонам Honor снова продаваться на территории США и использовать Google Play Services. Занятно, что по данным источников Reuters, Digital China зарегистрирована в апреле и принадлежит Huawei. Huawei от комментариев отказалась.",
+        "date": "10-11-2020"
+      },
+      {
+        "id": 3,
+        "title": "У Telegram могут потребовать ключи шифрования для переписок пользователей Евросоюза",
+        "content": "Так, в неопубликованном пока документе говорится о том, что внутри Европейского союза планируется внедрить ряд новых мер, призванных остановить исламский экстремизм и терроризм. В числе прочего ожидается, что технологические компании, в активе которых имеются собственные мессенджеры, будут обязаны предоставлять властям данные о содержании зашифрованной переписки пользователей.",
+        "date": "09-11-2020"
+      },
+      {
+        "id": 4,
+        "title": "Последняя версия iOS 14 была взломана за считанные дни после релиза",
+        "content": "Компания Apple выпустила iOS 14.1 и 14.2 менее недели назад — 5 ноября 2020 года. А уже сейчас, разработчиками проекта checkra1n, в сети был опубликован рабочий джейлбрейк, который можно установить абсолютно на все iPhone 7 и 7 Plus, а также на ограниченное количество смартфонов на базе процессора Apple A11: iPhone 8, 8 Plus и iPhone X.",
+        "date": "08-11-2020"
+      },
+      {
+        "id": 5,
+        "title": "Хакеры украли более 1 ТБ данных компании Capcom",
+        "content": "Японская компания, положившая начало многим культовым игровым сериям (в том числе Resident Evil и Street Fighter) уже признала, что стала жертвой злоумышленников. По её словам, на руках у хакеров имеется доступ ко множеству баз данных игрового разработчика.",
+        "date": "07-11-2020"
+      },
+      {
+        "id": 6,
+        "title": "Смартфоны на Android 7.1.1 и старше не смогут открывать сайты уже в 2021 году",
+        "content": "Причиной столь массовой проблемы стало окончание срока действия перекрестной подписи для сертификации сайтов с шифрованием, введённой Let’s Encrypt и IdenTrust. Именно из-за этого уже с сентября 2021 года многие смартфоны на базе Android не смогут нормально открывать сайты.",
+        "date": "06-11-2020"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "title": "Xiaomi Mi 10T Lite 6/128GB Atlantic Blue",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSYnlooFBMpqeXpiGpCtMqVNnCONgVi2edCHE5_QdHY83ynenv6ffIOONzWtYMfig&usqp=CAc",
+        "price": "8999,00 грн",
+        "date": "11-16-2020"
+      },
+      {
+        "id": 2,
+        "title": "Xiaomi Poco X3 6/128GB Cobalt Blue",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQcW8oUzSWr_0qpxvYjpmGEyYvZ9I_knDEZJObMBhv1JglqMqE9nNT2Km4e221ofg&usqp=CAc",
+        "price": "6999,00 грн",
+        "date": "11-16-2020"
+      },
+      {
+        "id": 3,
+        "title": "Samsung Galaxy Note 10 Lite 6/128Gb Black",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqSKz0cZz5kAV9khp3T7Mp5IsPzRg-iXhvX_CqZeap8bemdGO99s7TgHQKD90nQKD7nXz7mquH1K4&usqp=CAc",
+        "price": "12999,00 грн",
+        "date": "11-16-2020"
+      },
+      {
+        "id": 4,
+        "title": "Xiaomi Redmi Note 9 Pro 6/128GB Grey",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxe_oiVjFi2wvIv5SONManI8E6o8JzylscFSOi95l2AdW5LZ3X9bqjDDbht2K9&usqp=CAc",
+        "price": "6999,00 грн",
+        "date": "11-16-2020"
+      },
+      {
+        "id": 5,
+        "title": "APPLE iPhone 12 Pro 128GB Pacific Blue",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPQVMyRpeBf7Nd2M7TJizY6Lg5Sr15egA-KT4D4m36D8nvpG9YBWQmd59v4EzORg&usqp=CAc",
+        "price": "39999,00 грн",
+        "date": "11-16-2020"
+      },
+      {
+        "id": 6,
+        "title": "Huawei P40 lite 6/128GB Sakura Pink",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUG6Lor_SRUDnIXaZ8X74Rez3Rf92sHbUxHFvECalt5KhSq7ny5LstEMMeUlrn&usqp=CAc",
+        "price": "7499,00 грн",
+        "date": "11-16-2020"
+      },
+      {
+        "id": 7,
+        "title": "Samsung Galaxy S20 128GB Grey",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTqSKz0cZz5kAV9khp3T7Mp5IsPzRg-iXhvX_CqZeap8bemdGO99s7TgHQKD90nQKD7nXz7mquH1K4&usqp=CAc",
+        "price": "19999,00 грн",
+        "date": "11-25-2020"
+      },
+      {
+        "id": 8,
+        "title": "Samsung Galaxy M31 6/128GB Black",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxe_oiVjFi2wvIv5SONManI8E6o8JzylscFSOi95l2AdW5LZ3X9bqjDDbht2K9&usqp=CAc",
+        "price": "5999,00 грн",
+        "date": "11-25-2020"
+      },
+      {
+        "id": 9,
+        "title": "APPLE iPhone 11 Pro 128GB Space Grey",
+        "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPQVMyRpeBf7Nd2M7TJizY6Lg5Sr15egA-KT4D4m36D8nvpG9YBWQmd59v4EzORg&usqp=CAc",
+        "price": "29999,00 грн",
+        "date": "11-25-2020"
+      },
+      {
+        "id": 10,
+        "title": "Huawei P30 lite 4/128GB Sakura",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUG6Lor_SRUDnIXaZ8X74Rez3Rf92sHbUxHFvECalt5KhSq7ny5LstEMMeUlrn&usqp=CAc",
+        "price": "6499,00 грн",
+        "date": "11-25-2020"
+      }
+    ],
+    "pizza" : [
+      {
+        "id": 1,
+        "title": "Четыре сыра",
+        "desc": "Соус томатный, сыр моцарелла, сыр чеддер, сыр дор-блю, сыр пармезан, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/9/1/910_500_32_1.jpg",
+        "price30": "145,00 грн",
+        "price40": "195,00 грн",
+        "weight30": "410 г",
+        "weight40": "660 г"
+      },
+      {
+        "id": 2,
+        "title": "Баварская",
+        "desc": "Соус томатный, колбаски охотничьи, опята маринованные, лук марс маринованный, оливки, сыр моцарелла, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_copy_3.jpg",
+        "price30": "135,0 грн",
+        "price40": "180,0 грн",
+        "weight30": "500 г",
+        "weight40": "800 г"
+      },
+      {
+        "id": 3,
+        "title": "Пять сыров",
+        "desc": "Соус Бешамель, сыр Моцарелла, сыр Чеддер, сыр Дор-блю, чёрный Камамбер, сыр Пармезан, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_copy_11.jpg",
+        "price30": "145,00 грн",
+        "price40": "235,00 грн",
+        "weight30": "450 г",
+        "weight40": "760 г"
+      },
+      {
+        "id": 4,
+        "title": "Реджина",
+        "desc": "Соус сливочный, сыр Моцарелла, куриное филе, шампиньоны, лук марс маринованный, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_11.jpg",
+        "price30": "130,00 грн",
+        "price40": "185,00 грн",
+        "weight30": "500 г",
+        "weight40": "820 г"
+      },
+      {
+        "id": 5,
+        "title": "С салями и чёрным какамбером",
+        "desc": "Соус томатный, салями, чёрный камамбер, сыр Моцарелла, помидор черри, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_20.jpg",
+        "price30": "145,00 грн",
+        "price40": "225,00 грн",
+        "weight30": "460 г",
+        "weight40": "760 г"
+      },
+      {
+        "id": 6,
+        "title": "Вегетарианская",
+        "desc": "Соус Бешемаль, сыр Моцарелла, помидор черри, шпинат, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_13.jpg",
+        "price30": "135,00 грн",
+        "price40": "180,00 грн",
+        "weight30": "430 г",
+        "weight40": "640 г"
+      },
+      {
+        "id": 7,
+        "title": "Пепперони",
+        "desc": "Соус томатный, сыр Моцарелла, пепперони, помидор черри, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_15.jpg",
+        "price30": "135,00 грн",
+        "price40": "195,00 грн",
+        "weight30": "460 г",
+        "weight40": "720 г"
+      },
+      {
+        "id": 8,
+        "title": "С анчоусами и халапенью",
+        "desc": "Соус томатный, сыр Моцарелла, анчоусы, помидор черри, лук марс, перец Халапеньо маринованный, ферментированное тесто",
+        "img": "https://www.yaposhka.kh.ua/media/catalog/product/cache/1/image/910x500/beff4985b56e3afdbeabfc89641a4582/_/_/__1_1-100_1_copy_2-2_1_copy_13.jpg",
+        "price30": "170,00 грн",
+        "price40": "270,00 грн",
+        "weight30": "470 г",
+        "weight40": "720 г"
+      }
+    ]
+  }
+  
+  
+  
